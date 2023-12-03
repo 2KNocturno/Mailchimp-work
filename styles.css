@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+
 .aside {
     width: 200px;
     padding-left: 100px;
@@ -23,8 +24,13 @@ main {
     padding-top: 80px;*/
 }
 
+
 .email-letter {
     padding-top: 30px;
+}
+
+.ancord {
+    text-decoration:none;
 }
 
 .label-email {
